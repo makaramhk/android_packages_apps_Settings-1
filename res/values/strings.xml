@@ -3026,6 +3026,10 @@
     <!-- Sound & display settings screen, setting option summary displaying the currently selected font size -->
     <string name="summary_font_size" translatable="false">%1$s</string>
 
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
+
     <!-- SIM lock settings title  [CHAR LIMIT=40] -->
     <string name="sim_lock_settings">SIM card lock settings</string>
     <!-- Security & screen lock settings screen, SIM card lock setting option name  [CHAR LIMIT=40] -->
